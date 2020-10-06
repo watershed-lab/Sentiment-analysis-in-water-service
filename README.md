@@ -1,4 +1,4 @@
-﻿## DEMOSTRACIÓN DE ANALISIS DE SENTIMIENTOS EN TITULARES APLICADO A SERVICIOS DE AGUAS
+﻿## DEMOSTRACIÓN DE ANALISIS DE SENTIMIENTOS EN TITULARES DE PRENSA, APLICADO A SERVICIOS DE AGUAS
 
 Extracción de noticias relacionadas con un servicio urbano de aguas a partir de un periódico local, y clasificación por palabras clave. Usa traducción al inglés para aplicación directa de la librería, y para mejorar el resultado, una lista de elaboración propia relacionada con este tipo de actividad.
 
